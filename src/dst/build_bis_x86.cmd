@@ -1,0 +1,1 @@
+script_to_exe.cmd -pn:BIS -sd:..\src\bis -td:temp -bd:.. -bf:build.txt -ex:bis_exc_copy.txt -ma:1 -dt:zip -pa:x86 %*

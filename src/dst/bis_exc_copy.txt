@@ -1,0 +1,13 @@
+*.
+vcredist_x64.exe
+.cmd
+._cmd
+.bat
+.au3
+.work
+.bak
+.zip
+.rar
+.msi
+.7z
+.sql

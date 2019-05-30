@@ -1,0 +1,1 @@
+script_to_exe.cmd -pn:WAMP -sd:..\src\bis -td:temp -bd:.. -bf:build.txt -ex:wamp_exc_copy.txt -ma:1 -dt:zip -pa:x86 %*

@@ -1,0 +1,1 @@
+script_to_exe.cmd -pn:OADF -sd:..\src\bis -td:temp -bd:.. -bf:build.txt -ex:oadf_exc_copy.txt -ma:1 -dt:zip -pa:x86 %*
