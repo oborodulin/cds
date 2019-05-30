@@ -1,0 +1,7 @@
+\build\
+.cmd
+._cmd
+.bat
+.au3
+.work
+.bak

@@ -1,0 +1,1 @@
+D:\utils\bis\Distribution\icons\exe-icon.ico	cfds.cmd	D:\utils\releases\cfds\cfds.exe

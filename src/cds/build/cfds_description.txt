@@ -1,0 +1,4 @@
+copyright=Copyright (C) 2013-2015 Oleg Borodulin (admin@bis.unimansys.com)
+product=Victory CfDS
+description=Command file Distribution System
+company=Victory UMS

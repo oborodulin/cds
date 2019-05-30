@@ -1,0 +1,6 @@
+cfds.exe	D:\utils\bis\Distribution\build\win_x86\Bat_To_Exe_Converter.exe
+cfds.exe	D:\utils\bis\Distribution\utils_x86\chgcolor.exe
+cfds.exe	D:\utils\bis\Distribution\utils_x86\uniconv\uniconv.exe
+cfds.exe	D:\utils\bis\Distribution\utils_x86\uniconv\btuc21d3.dll
+cfds.exe	D:\utils\bis\Distribution\utils_x86\7za.exe
+cfds.exe	D:\utils\bis\Distribution\utils_x86\fnr.exe
